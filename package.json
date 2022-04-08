@@ -21,8 +21,7 @@
   "authors": [
     "oscar barajas <oscar@gndx.dev>",
     "ramiro mijalovich <ramiro.mijalovich@gmail.com>"
-  ]
-    
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gndx/js-portfolio/issues"
